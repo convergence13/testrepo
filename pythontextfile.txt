@@ -1,0 +1,2 @@
+#This is a text file to upload to git for learning purpose
+print ("welcome again to my text upload to GitHub")
